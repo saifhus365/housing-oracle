@@ -1,0 +1,23 @@
+# ── Core ──────────────────────────────────────────────────────
+langchain
+langchain-openai
+langchain-community
+openai
+
+# ── Embeddings & Vector Store ─────────────────────────────────
+chromadb
+# faiss-cpu
+# pinecone-client
+
+# ── Data loading ──────────────────────────────────────────────
+pandas
+pypdf
+unstructured
+
+# ── Utilities ─────────────────────────────────────────────────
+python-dotenv
+pydantic
+
+# ── Dev / Testing ─────────────────────────────────────────────
+pytest
+ruff
